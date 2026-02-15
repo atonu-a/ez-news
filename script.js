@@ -1,4 +1,4 @@
-const API = "pub_ca8bfa7ba99b44c980c77e7eeced67f0";
+const API = "pub_1f34fe71d078452480e8e732b972582d";
 const BASE_URL = " https://newsdata.io/api/1/latest";
 
 async function news(query) {
@@ -98,3 +98,4 @@ menuBtn.addEventListener("click", () => {
   navContent.classList.toggle("hidden");
   navContent.classList.toggle("flex");
 });
+
